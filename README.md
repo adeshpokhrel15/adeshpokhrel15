@@ -14,14 +14,9 @@
   
 </p>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
-
-
-
- <br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeshpokhrel15&show_icons=true&locale=en&layout=compact" alt="adeshpokhrel15" /></p>
 </br> <br> </br> <br></br> <br> <br>
-
- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adeshpokhrel15&show_icons=true&locale=en" alt="adeshpokhrel15" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adeshpokhrel15&show_icons=true&locale=en" alt="adeshpokhrel15" /></p>
 </br> <br></br> <br></br> <br></br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeshpokhrel15&" alt="adeshpokhrel15" /></p>
