@@ -13,10 +13,10 @@
 <a href="https://instagram.com/aadeshpokhrel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadeshpokhrel_" height="30" width="40" /></a>
   
 </p>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeshpokhrel15&show_icons=true&locale=en&layout=compact" alt="adeshpokhrel15" /></p>
-</br> <br> </br> <br></br> <br> <br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adeshpokhrel15&show_icons=true&locale=en" alt="adeshpokhrel15" /></p>
-</br> <br></br> <br></br> <br></br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeshpokhrel15&" alt="adeshpokhrel15" /></p>
+
+## 🪪 Profile Summary
+<p align="center">
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adeshpokhrel15&theme=github_dark"/>
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adeshpokhrel15&theme=github_dark"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adeshpokhrel15&&theme=github_dark" alt="adeshpokhrel15" />
+</p>
